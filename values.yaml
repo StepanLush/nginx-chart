@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: stepanlushch/my-nginx-app
-  tag: latest
+  tag: stepanlushch/my-nginx-app:dev-56
 
 service:
   type: ClusterIP
